@@ -1,0 +1,17 @@
+#login-btn{
+    position: absolute;
+    left: 100px;
+}
+#login-heading{
+    text-align: center;
+    background-color: #6c757d;
+    color: aliceblue;
+}
+#signup-btn{
+    position: absolute;
+    left: 130px;
+}
+
+.body-style{
+    background: red;
+}
